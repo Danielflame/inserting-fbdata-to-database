@@ -95,7 +95,7 @@ if(isset($accessToken)){
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
-<title>Login with Facebook using PHP by CodexWorld</title>
+<title>Login with Facebook using</title>
 <meta charset="utf-8">
 </head>
 <body>
