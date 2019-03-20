@@ -1,2 +1,2 @@
-# inserting-fbdata-to-database
-installing fb data to database
+# inserting-facebook data-to-database
+inserting facebook data data to database
